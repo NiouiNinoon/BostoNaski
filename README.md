@@ -24,8 +24,9 @@ sudo apt install nodejs
 ```
 <br>
 Pour récupérer le code et l'executer :
+
 ```
-git clone https://github.com/NiouiNinoon/BostoNaski <wbr>
+git clone https://github.com/NiouiNinoon/BostoNaski <br>
 npm install<br>
 npm server
 ```
