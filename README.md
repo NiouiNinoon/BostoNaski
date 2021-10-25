@@ -1,5 +1,5 @@
 # BostoNaski
-### Un Bot discord développé en NodeJs qui souhaite les anniversaires
+### Un Bot discord développé avec NodeJs qui souhaite les anniversaires
 ![](discordjs.png)
 <br><br>
 
@@ -15,7 +15,7 @@ Ce bot a été créé dans le but de souhaiter les anniversaires sur un server d
 L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br>
 I will regularly add new scripts and types of encryption / decryption.
 
-# __Setup__
+# __Configuration__
 ## Pour faire fonctionner ce bot :
 Le Bot a été développé en NodeJs donc faites attention à bien avoir installé NodeJs : 
 ```
@@ -69,7 +69,9 @@ exemple de fichier :
 }
 ```
 Ce fichier contient un tableau de tout les anniversaires à souhaiter ainsi que la date du jour (mise à jour automatiquement par le bot).
-L'identifiant discord se trouve en faisant clique droit sur le personne puis copier identifiant.
+L'identifiant discord se trouve en faisant clique droit sur le personne puis copier identifiant (voir image ci-dessous).<br>
+![](id.png)<br><br>
+
 
 
 # __Conclusion__
