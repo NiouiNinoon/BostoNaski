@@ -69,7 +69,7 @@ exemple de fichier :
 }
 ```
 Ce fichier contient un tableau de tout les anniversaires à souhaiter ainsi que la date du jour (mise à jour automatiquement par le bot).
-L'identifiant discord se trouve en faisant clique droit sur le personne puis copier identifiant (voir image ci-dessous).<br>
+L'identifiant discord se trouve en faisant clique droit sur le personne puis copier identifiant (voir image ci-dessous).<br><br>
 ![](id.png)<br><br>
 
 
