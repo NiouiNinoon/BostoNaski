@@ -1,6 +1,6 @@
 # BostoNaski
 ### Un Bot discord développé en NodeJs qui souhaite les anniversaires
-![](discord.png)
+![](discordjs.png)
 <br><br>
 
 # __Sommaire__
@@ -70,7 +70,7 @@ exemple de fichier :
 ```
 Ce fichier contient un tableau de tout les anniversaires à souhaiter ainsi que la date du jour (mise à jour automatiquement par le bot).
 L'identifiant discord se trouve en faisant clique droit sur le personne puis copier identifiant.
-![](id.png)<br>
+
 
 # __Conclusion__
 Ce dossier git ne vous permet pas d'utiliser mon bot mais en revanche, il vous permet de récréer votre propre bot à partir de ce code.
