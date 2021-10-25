@@ -23,12 +23,10 @@ Le Bot a été développé en NodeJs donc faites attention à bien avoir install
 sudo apt install nodejs
 ```
 <br>
-Pour récupérer le code et l'executer :
-<br>
-
+Pour récupérer le code et l'executer :<br><br>
 ```
-git clone https://github.com/NiouiNinoon/BostoNaski <br>
-npm install<br>
+git clone https://github.com/NiouiNinoon/BostoNaski
+npm install
 npm server
 ```
 
