@@ -29,7 +29,7 @@ client.on('message', message => {
   var userrrr = message.mentions.users.first();
 
   //Lorsque l'utilisateur utilise une mention que ce soit d'un autre utilisateur ou alors du bot lui-même
-  if (`${userrrr}` === `<@901471765073641523>`){
+  if (`${userrrr}` === `<@901471765073641523>`){ //ce nombre correspond à l'identifiant discord de votre bot
     
     message.channel.send(`Pour savoir ce que je peux faire envoie **#help** au 7 14 14 :blush:`);
     
@@ -69,14 +69,14 @@ client.once('ready', () => {
 
 client.on('guildMemberAdd', (member) =>{
 
-  let welcome = client.channels.cache.get('760938647192076351'); 
-  welcome.send(`Bienvenue ${member}! C'est un plaisir de te voir sur notre server! :hugging: \nN'hésite pas à te présenter dans le salon <#834073704974516284> !`);
+  let welcome = client.channels.cache.get('760938647192076351'); //l'identifiant du channel de votre choix (souvent le channel bienvenue)
+  welcome.send(`Bienvenue ${member}! C'est un plaisir de te voir sur notre server! :hugging: \nN'hésite pas à te présenter dans le salon <#834073704974516284> !`); //l'id du salon de présentation
   
 });
 
 client.on('guildMemberRemove',(member) =>{
   
-  let leave = client.channels.cache.get('760938647192076351');
+  let leave = client.channels.cache.get('760938647192076351');  //l'identifiant du channel de votre choix (souvent le channel bienvenue)
   leave.send(`${member} nous a malheureusement quitté... :pensive: `);
 
 });
