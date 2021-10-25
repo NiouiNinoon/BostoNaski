@@ -9,8 +9,8 @@ module.exports = {
       message.channel.send(new Discord.MessageEmbed()
         //.setColor("#339966")
         .setTitle("**Liste des commandes**")
-        .attachFiles('./image/bostoBD2.png')
-        .setThumbnail('attachment://bostoBD2.png')
+        .attachFiles('./image/bostoBD2.png') //attention cette image est une image privée, remplacée là par l'image de votre choix
+        .setThumbnail('attachment://bostoBD2.png') //pareil
         .setDescription("Vous trouverez ci-dessous toutes les commandes exécutable par le bot BostoNaski. \nN'oubliez pas avant chaque commande de mettre le préfix: **#**")
         .addFields(
             { name: '\u200B', value: '\u200B' },
