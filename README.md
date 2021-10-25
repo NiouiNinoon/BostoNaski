@@ -74,5 +74,11 @@ L'identifiant discord se trouve en faisant clique droit sur le personne puis cop
 
 
 
+# __Origine du nom__
+BostoNaski tire son origine de deux noms:<br>
+ - "naskiĝtago" (qui signifie "anniversaire" en Esperanto) 
+ - "Ecobosto" (jeune start-up traitant sur l'écologie) qui elle même tire son nom des mots "ekologio", "karbono" et "bonfarto" 
+    qui signifie respectivement "écologie", "carbone", "bien-être"
+
 # __Conclusion__
 Ce dossier git ne vous permet pas d'utiliser mon bot mais en revanche, il vous permet de récréer votre propre bot à partir de ce code.
