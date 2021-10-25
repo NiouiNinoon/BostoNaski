@@ -8,6 +8,7 @@
 * [Setup](#setup)
 * [Fichiers manquants](#fichiers-manquants)
 * [Conclusion](#conclusion)
+* [Origine du nom](#origine-du-nom)
 
 # __Informations genrales__
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
@@ -75,7 +76,7 @@ L'identifiant discord se trouve en faisant clique droit sur le personne puis cop
 
 
 # __Origine du nom__
-BostoNaski tire son origine de deux noms:<br>
+**BostoNaski** tire son origine de deux noms:<br>
  - "naskiĝtago" (qui signifie "anniversaire" en Esperanto) 
  - "Ecobosto" (jeune start-up traitant sur l'écologie) qui elle même tire son nom des mots "ekologio", "karbono" et "bonfarto" 
     qui signifie respectivement "écologie", "carbone", "bien-être"
