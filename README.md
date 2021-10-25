@@ -4,11 +4,11 @@
 <br><br>
 
 # __📋 Sommaire__
-* [Informations generales](#📖-informations-genrales)
+* [Informations generales](#📖informations-genrales)
 * [Setup](#setup)
 * [Fichiers manquants](#fichiers-manquants)
-* [Concclusion](#conclusion)
 * [Origine du nom](#origine-du-nom)
+* [Conclusion](#conclusion)
 
 # __📖 Informations genrales__
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
