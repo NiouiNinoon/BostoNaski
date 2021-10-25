@@ -31,7 +31,7 @@ npm server
 
 # __Fichiers manquants__
 ## __config.json__<br>
-```
+```json
 {
     "prefix":"your prefix",
     "token": "the token of your bot"
@@ -41,7 +41,7 @@ Ce fichier permet de relier votre bot Discord à votre application.
 
 ## __data/anniv.json__<br>
 exemple de fichier :
-```
+```json
 {
  "tab": [
   {
