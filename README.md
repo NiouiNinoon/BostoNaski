@@ -4,13 +4,13 @@
 <br><br>
 
 # __📋 Sommaire__
-* [Informations generales](#📖-informations-genrales)
+* [Informations generales](#informations-genrales)
 * [Setup](#setup)
 * [Fichiers manquants](#fichiers-manquants)
 * [Origine du nom](#origine-du-nom)
 * [Conclusion](#conclusion)
 
-# __📖 Informations genrales__
+# 📖 __Informations genrales__
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
 Ce bot a été créé dans le but de souhaiter les anniversaires sur un server discord.
 L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br>
