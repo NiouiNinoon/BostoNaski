@@ -4,10 +4,10 @@
 <br><br>
 
 # __📋 Sommaire__
-* [Informations generales](#informations-genrales)
-* [Configuration](#configuration)
-* [Modifictaion a effectuer avant utilisation](#Modifictaion-a-effectuer-avant-utilisation)
-* [Origine du nom](#origine-du-nom)
+* [Informations generales](#-informations-genrales)
+* [Configuration](#-configuration)
+* [Modifictaion a effectuer avant utilisation](#-modifictaion-a-effectuer-avant-utilisation)
+* [Origine du nom](#-origine-du-nom)
 * [Commentaires](#commentaires)
 
 # 📖 Informations genrales
