@@ -9,7 +9,7 @@
 * [Modifictaion a effectuer avant utilisation](#-modifictaion-a-effectuer-avant-utilisation)
 * [Origine du nom](#-origine-du-nom)
 * [Commentaires](#commentaires)
-<br><br>
+<br><br><br><br>
 
 # 📖 Informations genrales
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
@@ -30,7 +30,7 @@ git clone https://github.com/NiouiNinoon/BostoNaski
 npm install
 npm server
 ```
-<br>
+<br><br><br><br>
 
 # ✍ Modifictaion a effectuer avant utilisation
 ## Dans le fichier config.JSON :
@@ -42,13 +42,14 @@ Pour le bon fonctionnement de votre bot vous devrez effectuer quelques modificat
 ```
 //TO-CHANGE : chose à modifier
 ```
-<br>
+<br><br><br><br>
 
 # 🌱 Origine du nom
 **BostoNaski** tire son origine de deux noms:<br>
  - "naskiĝtago" (qui signifie "anniversaire" en Esperanto) 
  - "Ecobosto" (jeune start-up traitant sur l'écologie) qui elle même tire son nom des mots "ekologio", "karbono" et "bonfarto" 
-    qui signifie respectivement "écologie", "carbone", "bien-être"<br>
+    qui signifie respectivement "écologie", "carbone", "bien-être"
+<br><br><br><br>
 
 # __Commentaires__
 Ce dossier git ne vous permet pas d'utiliser mon bot mais en revanche, il vous permet de récréer votre propre bot à partir de ce code.
