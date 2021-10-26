@@ -41,7 +41,7 @@ Pour le bon fonctionnement de votre bot vous devrez effectuer quelques modificat
 //TO-CHANGE : chose à modifier
 ```
 
-# 🌱 Origine du nom
+## 🌱 Origine du nom
 **BostoNaski** tire son origine de deux noms:<br>
  - "naskiĝtago" (qui signifie "anniversaire" en Esperanto) 
  - "Ecobosto" (jeune start-up traitant sur l'écologie) qui elle même tire son nom des mots "ekologio", "karbono" et "bonfarto" 
