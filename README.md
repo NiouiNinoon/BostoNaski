@@ -6,7 +6,7 @@
 # __📋 Sommaire__
 * [Informations generales](#informations-genrales)
 * [Configuration](#configuration)
-* [Modifictaion à effectuer avant utilisation](#Modifictaion-à-effectuer-avant-utilisation)
+* [Modifictaion a effectuer avant utilisation](#Modifictaion-a-effectuer-avant-utilisation)
 * [Origine du nom](#origine-du-nom)
 * [Commentaires](#commentaires)
 
@@ -30,7 +30,7 @@ npm install
 npm server
 ```
 
-# __✍ Modifictaion à effectuer avant utilisation__
+# __✍ Modifictaion a effectuer avant utilisation__
 ## Dans le fichier config.JSON :
 Il vous faut entrer dans ce fichier vos propre informations : préfix du bot (choisi par vous) et token (donné dans votre application sur Discord Portal Developper)
 ## Dans le fichier anniv.JSON dans le dossier data:
