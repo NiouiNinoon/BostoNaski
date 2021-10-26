@@ -9,11 +9,12 @@
 * [Modifictaion a effectuer avant utilisation](#-modifictaion-a-effectuer-avant-utilisation)
 * [Origine du nom](#-origine-du-nom)
 * [Commentaires](#commentaires)
+<br>
 
 # 📖 Informations genrales
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
 Ce bot a été créé dans le but de souhaiter les anniversaires sur un server discord.
-L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br>
+L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br><br>
 
 # ⚙ Configuration
 ## Pour faire fonctionner ce bot :
@@ -29,6 +30,7 @@ git clone https://github.com/NiouiNinoon/BostoNaski
 npm install
 npm server
 ```
+<br>
 
 # ✍ Modifictaion a effectuer avant utilisation
 ## Dans le fichier config.JSON :
@@ -40,12 +42,13 @@ Pour le bon fonctionnement de votre bot vous devrez effectuer quelques modificat
 ```
 //TO-CHANGE : chose à modifier
 ```
+<br>
 
-## 🌱 Origine du nom
+# 🌱 Origine du nom
 **BostoNaski** tire son origine de deux noms:<br>
  - "naskiĝtago" (qui signifie "anniversaire" en Esperanto) 
  - "Ecobosto" (jeune start-up traitant sur l'écologie) qui elle même tire son nom des mots "ekologio", "karbono" et "bonfarto" 
-    qui signifie respectivement "écologie", "carbone", "bien-être"
+    qui signifie respectivement "écologie", "carbone", "bien-être"<br>
 
 # __Commentaires__
 Ce dossier git ne vous permet pas d'utiliser mon bot mais en revanche, il vous permet de récréer votre propre bot à partir de ce code.
