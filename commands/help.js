@@ -9,8 +9,8 @@ module.exports = {
       message.channel.send(new Discord.MessageEmbed()
         //.setColor("#339966")
         .setTitle("**Liste des commandes**")
-        .attachFiles('./image/image.png') //attention cette image doit correspondre à une de vos images située dans le dossier "image"
-        .setThumbnail('attachment://image.png') //pareil
+        .attachFiles('./image/image.png') //TO-CHANGE : attention cette image doit correspondre à une de vos images située dans le dossier "image"
+        .setThumbnail('attachment://image.png') //TO-CHANGE : pareil
         .setDescription("Vous trouverez ci-dessous toutes les commandes exécutable par ce bot. \nN'oubliez pas avant chaque commande de mettre le préfix: **#**")//TO-CHANGE : remplacer # par votre prefix
         .addFields(
             { name: '\u200B', value: '\u200B' },
