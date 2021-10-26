@@ -9,12 +9,12 @@
 * [Modifictaion a effectuer avant utilisation](#-modifictaion-a-effectuer-avant-utilisation)
 * [Origine du nom](#-origine-du-nom)
 * [Commentaires](#commentaires)
-<br>
+<br><br>
 
 # 📖 Informations genrales
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
 Ce bot a été créé dans le but de souhaiter les anniversaires sur un server discord.
-L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br><br>
+L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br><br><br><br>
 
 # ⚙ Configuration
 ## Pour faire fonctionner ce bot :
