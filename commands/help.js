@@ -7,7 +7,6 @@ module.exports = {
 
       
       message.channel.send(new Discord.MessageEmbed()
-        //.setColor("#339966")
         .setTitle("**Liste des commandes**")
         .attachFiles('./image/image.png') //TO-CHANGE : attention cette image doit correspondre à une de vos images située dans le dossier "image"
         .setThumbnail('attachment://image.png') //TO-CHANGE : pareil
