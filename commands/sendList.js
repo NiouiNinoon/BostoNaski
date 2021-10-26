@@ -8,6 +8,7 @@ module.exports = {
 
         
         //création d'un embed contenant un gif aléatoire du tab
+        //TO-CHANGE : remplacez les jours, mois, noms et prenoms par ceux de vos proches/amis/famille (bien-sur les lignes "etc." ne sont pas à inclure dans le bot)
         const emb = new Discord.MessageEmbed()
         .setTitle(":birthday: Liste des anniversaires :birthday: ")
         .setDescription("\t\n **===> JANVIER**\n"+
