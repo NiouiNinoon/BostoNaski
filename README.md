@@ -5,17 +5,17 @@
 
 # __📋 Sommaire__
 * [Informations generales](#informations-genrales)
-* [Setup](#setup)
+* [Configuration](#⚙-configuration)
 * [Fichiers manquants](#fichiers-manquants)
 * [Origine du nom](#origine-du-nom)
 * [Conclusion](#conclusion)
 
-# 📖 __Informations genrales__
+# __📖 Informations genrales__
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
 Ce bot a été créé dans le but de souhaiter les anniversaires sur un server discord.
 L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br>
 
-# __⚙️ Configuration__
+# __⚙ Configuration__
 ## Pour faire fonctionner ce bot :
 Le Bot a été développé en NodeJs donc faites attention à bien avoir installé NodeJs : 
 ```
@@ -30,7 +30,7 @@ npm install
 npm server
 ```
 
-# __⚙️ Modifictaion à effectuer avant utilisation__
+# __✍ Modifictaion à effectuer avant utilisation__
 ## Dans le fichier config.JSON :
 Il vous faut entrer dans ce fichier vos propre informations : préfix du bot (choisi par vous) et token (donné dans votre application sur Discord Portal Developper)
 ## Dans le fichier anniv.JSON dans le dossier data:
