@@ -17,7 +17,7 @@ Ce bot a été créé dans le but de souhaiter les anniversaires sur un server d
 L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br><br>
 
 # ⚙ Configuration
-## Pour faire fonctionner ce bot :
+### Pour faire fonctionner ce bot :
 Le Bot a été développé en NodeJs donc faites attention à bien avoir installé NodeJs : 
 ```
 sudo apt install nodejs
