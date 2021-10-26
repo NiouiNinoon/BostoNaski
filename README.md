@@ -14,7 +14,6 @@
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
 Ce bot a été créé dans le but de souhaiter les anniversaires sur un server discord.
 L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br>
-I will regularly add new scripts and types of encryption / decryption.
 
 # __⚙️ Configuration__
 ## Pour faire fonctionner ce bot :
@@ -31,50 +30,14 @@ npm install
 npm server
 ```
 
-# __📝 Fichiers manquants__
-## __config.json__<br>
-```json
-{
-    "prefix":"your prefix",
-    "token": "the token of your bot"
-}
+# __⚙️ Modifictaion à effectuer avant utilisation__
+## Dans le fichier config.JSON :
+Il vous faut entrer dans ce fichier vos propre informations : préfix du bot (choisi par vous) et token (donné dans votre application sur Discord Portal Developper)
+## Dans le code :
+Pour le bon fonctionnement de votre bot vous devrez effectuer quelques modifications représentées dans le code par un commentaire : 
 ```
-Ce fichier permet de relier votre bot Discord à votre application.
-
-## __data/anniv.json__<br>
-exemple de fichier :
-```json
-{
- "tab": [
-  {
-   "anniversaires": [
-    {
-     "id": "4927213867255729",
-     "name": "Gilbert",
-     "anniv": "21/12/2012"
-    },
-    {
-     "id": "0",
-     "name": "Didier",
-     "anniv": "1/3/1913"
-    }
-   ]
-  },
-  {
-   "dateJour": [
-    {
-     "date": "23/10"
-    }
-   ]
-  }
- ]
-}
+//TO-CHANGE : chose à modifier
 ```
-Ce fichier contient un tableau de tout les anniversaires à souhaiter ainsi que la date du jour (mise à jour automatiquement par le bot).
-L'identifiant discord se trouve en faisant clique droit sur le personne puis copier identifiant (voir image ci-dessous).<br><br>
-![](id.png)<br><br>
-
-
 
 # __🌱 Origine du nom__
 **BostoNaski** tire son origine de deux noms:<br>

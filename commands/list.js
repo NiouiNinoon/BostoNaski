@@ -4,54 +4,69 @@ const pagination = require('discord.js-pagination');
 module.exports = {
     
     name: 'list',
-    description: 'envoie la list des annivs',
+    description: 'envoie la liste des annivs',
     async execute(message) {
     
         const page1 = new Discord.MessageEmbed()
                 .setTitle(":birthday: JANVIER :birthday:")
-                .setDescription("28 : Max/Romain Dufils\n"+
-                                "28 : ECOBOSTO")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page2 = new Discord.MessageEmbed()
                 .setTitle(":birthday: FEVRIER :birthday:")
-                .setDescription("6 : Nolann filleul\n")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page3 = new Discord.MessageEmbed()
                 .setTitle(":birthday: MARS :birthday:")
-                .setDescription("7 : Joris Flohic\n"+
-                                "23 : Théo Genette")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page4 = new Discord.MessageEmbed()
-                .setTitle(":birthday: JUIN :birthday:")
-                .setDescription("7 : Ehouarn Beriot\n"+
-                                "24 : Boris")
+                .setTitle(":birthday: AVRIL :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page5 = new Discord.MessageEmbed()
-                .setTitle(":birthday: JUILLET :birthday:")
-                .setDescription("7 : Mattéo (ARK)")
+                .setTitle(":birthday: MAI :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page6 = new Discord.MessageEmbed()
-                .setTitle(":birthday: AOUT :birthday:")
-                .setDescription("16 : Yohan\n"+
-                                "20 : Lisa Le Goff\n"+
-                                "21 : Lucas (Nakizame)\n"+
-                                "22 : Antoine Le Nours\n"+
-                                "26 : Ninon Begkoyian\n"+
-                                "30 : Thomas Cloarec")
+                .setTitle(":birthday: JUIN :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page7 = new Discord.MessageEmbed()
-                .setTitle(":birthday: SEPTEMBRE :birthday:")
-                .setDescription("17 : Gildas Garin--Hameline\n"+
-                                "18 : Amélie Bodiou\n"+
-                                "23 : Pierre Oh")
+                .setTitle(":birthday: JUILLET :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page8 = new Discord.MessageEmbed()
-                .setTitle(":birthday: OCTOBRE :birthday:")
-                .setDescription("1 : Henri Jézo\n" +
-                                "4 : Axel Guillou\n" +
-                                "13 : Simon Barron\n" +
-                                "23 : Emeline Breit Hoarau\n" +
-                                "27 : Benjamin Gireau--Renard")
+                .setTitle(":birthday: AOUT :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
         const page9 = new Discord.MessageEmbed()
+                .setTitle(":birthday: SEPTEMBRE :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
+        const page10 = new Discord.MessageEmbed()
+                .setTitle(":birthday: OCTOBRE :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
+        const page11 = new Discord.MessageEmbed()
+                .setTitle(":birthday: NOVEMBRE :birthday:")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
+        const page12 = new Discord.MessageEmbed()
                 .setTitle(":birthday: DECEMBRE :birthday:")
-                .setDescription("1 : Maïwen Lavolée\n" +
-                                "4 : Matisse Pedron\n" +
-                                "10 : Baptou 1A\n"+
-                                "14 : Titouan Le Berre\n" +
-                                "22 : Thomas Poulain")
+                .setDescription("jour : Nom Prenom\n"+
+                                "jour : Nom prenom\n"+
+                                "etc.")
 
         const pages = [
             page1,
@@ -62,7 +77,10 @@ module.exports = {
             page6,
             page7,
             page8,
-            page9
+            page9,
+            page10,
+            page11,
+            page12
         ]
 
         const emoji = ["⬅️", "➡️"]

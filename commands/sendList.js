@@ -11,45 +11,53 @@ module.exports = {
         const emb = new Discord.MessageEmbed()
         .setTitle(":birthday: Liste des anniversaires :birthday: ")
         .setDescription("\t\n **===> JANVIER**\n"+
-                        "- 24 janvier Benjamin 1A\n"+
-                        "- 28 janvier Max/Romain Dufils\n" +
-                        "- 28 janvier ECOBOSTO\n" +
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> FEVRIER**\n"+
-                        "- 6 février Nolann filleul Antoine\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> MARS**\n"+
-                        "- 7 mars Joris Flohic\n"+
-                        "- 23 mars Théo Genette\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
+                        "\t\n **===> AVRIL**\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
+                        "\t\n **===> MAI**\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> JUIN**\n"+
-                        "- 7 juin Ehouarn Beriot\n"+
-                        "- 14 juin Anthony filleul Yohan\n"+
-                        "- 24 juin Boris\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> JUILLET**\n"+
-                        "- 7 juillet Matteo (ARK)\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> AOUT**\n"+
-                        "- 9 août Clément filleul Ehouarn\n"+
-                        "- 16 août Yohan Carn\n"+
-                        "- 20 août Lisa Le Goff\n"+
-                        "- 21 août Lucas (Nakizame)\n"+
-                        "- 22 août Antoine Le Nours\n"+
-                        "- 26 août Ninon Begkoyian\n"+
-                        "- 30 août Thomas Cloarec\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> SEPTEMBRE**\n"+
-                        "- 17 septembre Gildas Garin--Hameline\n"+
-                        "- 18 septembre Mélie Bodiou\n"+
-                        "- 23 septembre Pierre Oh\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> OCTOBRE**\n"+
-                        "- 1er octobre Henri Jézo\n"+
-                        "- 4 octobre Axel Guillou\n"+
-                        "- 13 octobre Simon Barron\n"+
-                        "- 23 octobre Emeline Breit Hoarau\n"+
-                        "- 27 octobre Benjamin Gireau--Renard\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
+                        "\t\n **===> NOVEMBRE**\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n"+
                         "\t\n **===> DECEMBRE**\n"+
-                        "- 1er décembre Maïwen Lavolée\n"+
-                        "- 4 décembre Matisse Pedron\n"+
-                        "- 10 décembre Baptou 1A\n"+
-                        "- 14 décembre Titouan Le Berre\n"+
-                        "- 22 décembre Thomas Poulain\n"+
-                        "- 28 décembre Anna filleule Lisa")
+                        "- jour mois Nom Prenom\n"+
+                        "- jour mois Nom Prenom\n"+
+                        "- etc.\n")
 
 
        //essaye d'envoyer le gif en mp et renvoi un msg d'état de la commande (ok ou erreur)

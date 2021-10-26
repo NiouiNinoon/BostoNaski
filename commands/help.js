@@ -9,9 +9,9 @@ module.exports = {
       message.channel.send(new Discord.MessageEmbed()
         //.setColor("#339966")
         .setTitle("**Liste des commandes**")
-        .attachFiles('./image/bostoBD2.png') //attention cette image est une image privée, remplacée là par l'image de votre choix
-        .setThumbnail('attachment://bostoBD2.png') //pareil
-        .setDescription("Vous trouverez ci-dessous toutes les commandes exécutable par le bot BostoNaski. \nN'oubliez pas avant chaque commande de mettre le préfix: **#**")
+        .attachFiles('./image/image.png') //attention cette image doit correspondre à une de vos images située dans le dossier "image"
+        .setThumbnail('attachment://image.png') //pareil
+        .setDescription("Vous trouverez ci-dessous toutes les commandes exécutable par ce bot. \nN'oubliez pas avant chaque commande de mettre le préfix: **#**")//TO-CHANGE : remplacer # par votre prefix
         .addFields(
             { name: '\u200B', value: '\u200B' },
             { name: '#list', value: 'Donne la liste des anniversaires' },
