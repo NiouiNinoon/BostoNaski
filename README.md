@@ -4,7 +4,7 @@
 <br><br>
 
 # __📋 Sommaire__
-* [Informations generales](#informations-genrales)
+* [Informations generales](#📖 informations-genrales)
 * [Setup](#setup)
 * [Fichiers manquants](#fichiers-manquants)
 * [Origine du nom](#origine-du-nom)
