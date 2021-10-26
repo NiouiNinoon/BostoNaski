@@ -33,6 +33,8 @@ npm server
 # __⚙️ Modifictaion à effectuer avant utilisation__
 ## Dans le fichier config.JSON :
 Il vous faut entrer dans ce fichier vos propre informations : préfix du bot (choisi par vous) et token (donné dans votre application sur Discord Portal Developper)
+## Dans le fichier anniv.JSON dans le dossier data:
+Il vous faut entrer dans ce fichier les informations de vos proches/amis/famille
 ## Dans le code :
 Pour le bon fonctionnement de votre bot vous devrez effectuer quelques modifications représentées dans le code par un commentaire : 
 ```
