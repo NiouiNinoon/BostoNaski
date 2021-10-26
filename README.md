@@ -5,7 +5,7 @@
 
 # __📋 Sommaire__
 * [Informations generales](#informations-genrales)
-* [Configuration](#⚙-configuration)
+* [Configuration](#⚙configuration)
 * [Fichiers manquants](#fichiers-manquants)
 * [Origine du nom](#origine-du-nom)
 * [Conclusion](#conclusion)
