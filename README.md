@@ -5,10 +5,10 @@
 
 # __📋 Sommaire__
 * [Informations generales](#informations-genrales)
-* [Configuration](#⚙configuration)
-* [Fichiers manquants](#fichiers-manquants)
+* [Configuration](#configuration)
+* [Modifictaion à effectuer avant utilisation](#Modifictaion-à-effectuer-avant-utilisation)
 * [Origine du nom](#origine-du-nom)
-* [Conclusion](#conclusion)
+* [Commentaires](#commentaires)
 
 # __📖 Informations genrales__
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
@@ -47,5 +47,5 @@ Pour le bon fonctionnement de votre bot vous devrez effectuer quelques modificat
  - "Ecobosto" (jeune start-up traitant sur l'écologie) qui elle même tire son nom des mots "ekologio", "karbono" et "bonfarto" 
     qui signifie respectivement "écologie", "carbone", "bien-être"
 
-# __Conclusion__
+# __Commentaires__
 Ce dossier git ne vous permet pas d'utiliser mon bot mais en revanche, il vous permet de récréer votre propre bot à partir de ce code.
