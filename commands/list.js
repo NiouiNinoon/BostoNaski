@@ -7,7 +7,7 @@ module.exports = {
     description: 'envoie la liste des annivs',
     async execute(message) {
     
-        //TO-CHANGE : remplacez les jours noms et prenoms par ceux de vos amis/famille (bien-sur les lignes "etc." ne sont pas à inclure dans le bot)
+        //TO-CHANGE : remplacez les jours, mois, noms et prenoms par ceux de vos proches/amis/famille (bien-sur les lignes "etc." ne sont pas à inclure dans le bot)
         const page1 = new Discord.MessageEmbed()
                 .setTitle(":birthday: JANVIER :birthday:")
                 .setDescription("jour : Nom Prenom\n"+
