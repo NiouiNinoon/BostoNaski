@@ -28,7 +28,7 @@ Pour récupérer le code et l'executer :<br><br>
 ```
 git clone https://github.com/NiouiNinoon/BostoNaski
 npm install
-npm server
+npm run server
 ```
 <br><br><br><br>
 
