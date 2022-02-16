@@ -4,14 +4,14 @@
 <br><br>
 
 # __📋 Sommaire__
-* [Informations generales](#-informations-genrales)
+* [Informations générales](#-informations-générales)
 * [Configuration](#-configuration)
-* [Modifictaion a effectuer avant utilisation](#-modifictaion-a-effectuer-avant-utilisation)
+* [Modifictaion à effectuer avant utilisation](#-modifictaion-à-effectuer-avant-utilisation)
 * [Origine du nom](#-origine-du-nom)
 * [Commentaires](#commentaires)
 <br><br><br><br>
 
-# 📖 Informations genrales
+# 📖 Informations générales
 Il s'agit d'un projet créé par une étudiante en 2eme année d'informatique.
 Ce bot a été créé dans le but de souhaiter les anniversaires sur un server discord.
 L'objectif principal étant de **ne pas oublier les anniversaires de ses amis**.<br><br><br><br>
@@ -23,7 +23,7 @@ Le Bot a été développé en NodeJs donc faites attention à bien avoir install
 sudo apt install nodejs
 ```
 <br>
-Pour récupérer le code et l'executer :<br><br>
+Pour récupérer le code et l'exécuter :<br><br>
 
 ```
 git clone https://github.com/NiouiNinoon/BostoNaski
@@ -32,9 +32,9 @@ npm run server
 ```
 <br><br><br><br>
 
-# ✍ Modifictaion a effectuer avant utilisation
+# ✍ Modifictaion à effectuer avant utilisation
 ## Dans le fichier config.JSON :
-Il vous faut entrer dans ce fichier vos propre informations : préfix du bot (choisi par vous) et token (donné dans votre application sur Discord Portal Developper)
+Il vous faut entrer dans ce fichier vos propres informations : préfix du bot (choisi par vous) et token (donné dans votre application sur Discord Portal Developper)
 ## Dans le fichier anniv.JSON dans le dossier data:
 Il vous faut entrer dans ce fichier les informations de vos proches/amis/famille
 ## Dans le code :
